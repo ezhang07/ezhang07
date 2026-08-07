@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**ezhang07/ezhang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at UBC. Currently seeking **software engineering internships**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- 
+
+### Interests
+Backend Systems, Machine Learning, Applied AI 
+
+### Hope to look more into 
+NLP, Agentic Workflows
+
+### My projects
+- **Speakle** — Full-stack speaking practice app. `Python` `PostgreSQL`
+- **[project-name]** — one-line description of what it does. `TypeScript` `React`
+- **[project-name]** — one-line description of what it does. `Go`
 -->
+
+### Reach me
+[Email](mailto:ethanzhang@outlook.com) ·  [LinkedIn](https://www.linkedin.com/in/ezhang23/)
