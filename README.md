@@ -2,7 +2,9 @@
 
 CS student at UBC. Currently seeking **software engineering internships**.
 
+Interested in Full Stack, Machine Learning, Applied AI.
 
+Hope to look more into NLP, Agents, Learning Paradigms.
 <!--- 
 
 ### Interests
@@ -18,4 +20,6 @@ NLP, Agentic Workflows
 -->
 
 ### Reach me
-[Email](mailto:ethanzhang@outlook.com) ·  [LinkedIn](https://www.linkedin.com/in/ezhang23/)
+[linkedin](https://www.linkedin.com/in/ezhang23/)
+
+[ethanzhang@outlook.com](mailto:ethanzhang@outlook.com) 
