@@ -4,7 +4,7 @@ CS student at UBC. Currently seeking **software engineering internships**.
 
 Interested in Full Stack, Machine Learning, Applied AI.
 
-Looking forward to learn more about NLP, Agents, Learning Paradigms.
+<!--- Looking forward to learn more about NLP, Agents, Learning Paradigms.
 <!--- 
 
 ### Interests
