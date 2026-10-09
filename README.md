@@ -2,8 +2,6 @@
 
 CS student at UBC. Currently seeking **software engineering internships**.
 
-Interested in Full Stack, Applied AI, Machine Learning
-
 <!--- Looking forward to learn more about NLP, Agents, Learning Paradigms.
 <!--- 
 
@@ -19,7 +17,12 @@ NLP, Agentic Workflows
 - **[project-name]** — one-line description of what it does. `Go`
 -->
 
-### Reach me
+### 🚀 Projects
+[Speakle](https://speakle-coral.vercel.app/): Platform for Speech Practice
+
+[newArc](https://new-arc-omega.vercel.app/): Anime Recommender Engine
+
+### 📫 Reach me
 [linkedin](https://www.linkedin.com/in/ezhang23/)
 
 [ethanzhang@outlook.com](mailto:ethanzhang@outlook.com) 
