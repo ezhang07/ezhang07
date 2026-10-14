@@ -20,7 +20,7 @@ NLP, Agentic Workflows
 ### 🚀 Projects
 [Speakle](https://speakle-coral.vercel.app/): A platform to practice your speech
 
-[newArc](https://new-arc-omega.vercel.app/): An anime recommendation engine
+[NewArc](https://new-arc-omega.vercel.app/): An anime recommendation engine
 
 ### 📫 Reach me
 [linkedin](https://www.linkedin.com/in/ezhang23/)
